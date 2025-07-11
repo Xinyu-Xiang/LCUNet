@@ -1,4 +1,4 @@
-## MMDD 2025: The 1st Multimodal Deception Detection Competition @MM2025
+## 1st Solution of MMDD 2025: The 1st Multimodal Deception Detection Competition @MM2025
 
 ## Team
 ```
