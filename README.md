@@ -1,7 +1,12 @@
+# LCUNet
 ## 1st Solution of MMDD 2025: The 1st Multimodal Deception Detection Competition @MM2025
 LCUNet: A Lightweight Concatenated Unified Mapping Multi-modal Deception Detector  (*^▽^*)
 
 This is official Pytorch implementation of "[LCUNet: A Lightweight Concatenated Unified Mapping Multi-modal Deception Detector](https://dl.acm.org/doi/10.1145/3728425.3759923)"
+
+## Framework
+![The overall framework of the proposed LCUNet algorithm.](https://github.com/Xinyu-Xiang/LCUNet/blob/main/assets/framework.pdf)
+
 
 ## Team
 ```
