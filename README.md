@@ -33,8 +33,10 @@ python test_phase2_final_upload.py
 Please check the ``environment.yml `` for details
 
 ## Checkpoint
-https://pan.baidu.com/s/1Xr5-DGyH48NhR0xg64R2zQ?pwd=uiaf   
+[Baidu Disk](https://pan.baidu.com/s/1Xr5-DGyH48NhR0xg64R2zQ?pwd=uiaf)   
 pw: uiaf
+
+[Google Drive](https://drive.google.com/drive/folders/1CENBSqYIbP6fOPdVwKvC3RwFu5yrtDtY?usp=drive_link)
 
 ## Ours result:
 Please check the ./result
